@@ -1,0 +1,20 @@
+Patienten-ID;Name;Auge;Behandlungsdatum;Diagnose;Behandlung;Soll-Abstand (Wochen)
+P-001;Anna Berger;rechts;10.01.2026;Feuchte AMD;IVOM Aflibercept;8
+P-001;Anna Berger;rechts;07.03.2026;Feuchte AMD;IVOM Aflibercept;8
+P-001;Anna Berger;rechts;02.05.2026;Feuchte AMD;IVOM Aflibercept;8
+P-001;Anna Berger;links;15.01.2026;Feuchte AMD;IVOM Aflibercept;8
+P-001;Anna Berger;links;12.03.2026;Feuchte AMD;IVOM Aflibercept;8
+P-002;Karl Hoffmann;rechts;02.02.2026;Diabetisches Makulaödem;IVOM Ranibizumab;6
+P-002;Karl Hoffmann;rechts;16.03.2026;Diabetisches Makulaödem;IVOM Ranibizumab;6
+P-002;Karl Hoffmann;links;09.02.2026;Diabetisches Makulaödem;IVOM Ranibizumab;6
+P-002;Karl Hoffmann;links;23.03.2026;Diabetisches Makulaödem;IVOM Ranibizumab;6
+P-002;Karl Hoffmann;links;11.05.2026;Diabetisches Makulaödem;IVOM Ranibizumab;6
+P-003;Marlene Krüger;rechts;01.03.2026;Retinaler Venenverschluss;IVOM Aflibercept;4
+P-003;Marlene Krüger;rechts;19.04.2026;Retinaler Venenverschluss;IVOM Aflibercept;4
+P-003;Marlene Krüger;rechts;25.05.2026;Retinaler Venenverschluss;IVOM Aflibercept;4
+P-004;Theodor Wagner;rechts;20.01.2026;Feuchte AMD;IVOM Aflibercept;8
+P-004;Theodor Wagner;links;03.02.2026;Feuchte AMD;IVOM Aflibercept;8
+P-005;Sofia Lindqvist;rechts;10.02.2026;Glaukom (fortgeschritten);Verlaufskontrolle;12
+P-005;Sofia Lindqvist;rechts;05.05.2026;Glaukom (fortgeschritten);Verlaufskontrolle;12
+P-005;Sofia Lindqvist;links;10.02.2026;Glaukom (fortgeschritten);Verlaufskontrolle;12
+P-005;Sofia Lindqvist;links;05.05.2026;Glaukom (fortgeschritten);Verlaufskontrolle;12
